@@ -1,3 +1,8 @@
+//https://learning.flatironschool.com/courses/4986/assignments/165695?module_item_id=357564
+
+//onChange works for tags: <input>, <select> and <textarea>
+//...anywhere where we need to capture the user's input
+
 import React from "react";
 
 function ChangeItUp() {
